@@ -1,0 +1,13 @@
+C:\publish\LightsApi.deps.json
+C:\publish\LightsApi.runtimeconfig.json
+C:\publish\LightsApi.runtimeconfig.dev.json
+C:\publish\LightsApi.dll
+C:\publish\LightsApi.pdb
+C:\Users\310145057\OneDrive - Philips Lighting\Citytouch_CodeBase\LightsApi\bin\Debug\netcoreapp1.1\LightsApi.deps.json
+C:\Users\310145057\OneDrive - Philips Lighting\Citytouch_CodeBase\LightsApi\bin\Debug\netcoreapp1.1\LightsApi.runtimeconfig.json
+C:\Users\310145057\OneDrive - Philips Lighting\Citytouch_CodeBase\LightsApi\bin\Debug\netcoreapp1.1\LightsApi.runtimeconfig.dev.json
+C:\Users\310145057\OneDrive - Philips Lighting\Citytouch_CodeBase\LightsApi\bin\Debug\netcoreapp1.1\LightsApi.dll
+C:\Users\310145057\OneDrive - Philips Lighting\Citytouch_CodeBase\LightsApi\bin\Debug\netcoreapp1.1\LightsApi.pdb
+C:\Users\310145057\OneDrive - Philips Lighting\Citytouch_CodeBase\LightsApi\obj\Debug\netcoreapp1.1\LightsApi.AssemblyInfo.cs
+C:\Users\310145057\OneDrive - Philips Lighting\Citytouch_CodeBase\LightsApi\obj\Debug\netcoreapp1.1\LightsApi.dll
+C:\Users\310145057\OneDrive - Philips Lighting\Citytouch_CodeBase\LightsApi\obj\Debug\netcoreapp1.1\LightsApi.pdb
