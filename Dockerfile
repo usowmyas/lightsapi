@@ -1,5 +1,3 @@
-# Using dotnet ( platform agnostic .NetCore web api on docker)
-
 # Using aspnetcore 
 FROM microsoft/aspnetcore-build
 
