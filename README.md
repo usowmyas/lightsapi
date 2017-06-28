@@ -20,7 +20,7 @@ docker build -t lightsapi .
 
 docker run -p 8181:80 lightsapi 
 
-OR can directly can run using cmd without having to build   : docker run -p 8080:80 usowmyas/lightsapi:ver0.0.0
+OR can directly run using cmd without having to build   : docker run -p 8080:80 usowmyas/lightsapi:ver0.0.0
 
 
 
