@@ -6,7 +6,7 @@ Prereqs :
 1) Visual Studio Code ( with C# for visual studio Code and Docker extensions )
 2) dotnet cmdline : https://docs.microsoft.com/en-us/dotnet/core/tools/ 
 
-# To Build lights api : 
+# To Build lights api 
 
 dotnet restore
 
@@ -14,7 +14,7 @@ dotnet build
 
 dotnet publish -o ./publish
 
-# To build lights api docker : 
+# To build lights api docker 
 
 docker build -t lightsapi .
 
